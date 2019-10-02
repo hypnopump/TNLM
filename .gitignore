@@ -1,0 +1,8 @@
+# exclude everything
+.ipynb_checkpoints/*
+data/*
+failed_parallel_julia/*
+output/*
+
+# exception to the rule
+# !somefolder/.gitkeep 
